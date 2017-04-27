@@ -1,7 +1,7 @@
 # Onoda
 (⌐■̅_̅■) <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     (⌐■_■)   Light Novel Downloader <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;        Helps to download novel translated from Chinese, Japanese, Korean language books etc.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;          Helps to download novel translated from Chinese, Japanese, Korean language books etc.
 
 ## Currently working
 Download books from Wuxiaworld.com
