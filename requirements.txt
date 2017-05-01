@@ -1,0 +1,9 @@
+appdirs==1.4.3
+beautifulsoup4==4.5.3
+packaging==16.8
+PDF==1.0
+pyparsing==2.2.0
+pyPdf==1.13
+PyPDF2==1.26.0
+reportlab==3.0
+six==1.10.0
